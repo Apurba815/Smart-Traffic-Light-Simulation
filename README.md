@@ -19,7 +19,7 @@ Higher traffic density → Longer green signal time.
 - Arduino
 - Embedded C
 
-## 🔮 Future Improvements
+##  Future Improvements
 - AI-based traffic prediction
 - IoT-based monitoring
 - Real-time traffic analytics
